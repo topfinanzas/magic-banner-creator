@@ -1,0 +1,5 @@
+{
+  "name": "Magic Banner Creator",
+  "description": "Paste a URL to an article, and this app will generate a descriptive prompt and an AI-generated image that captures the essence of the content.",
+  "requestFramePermissions": []
+}
